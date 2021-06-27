@@ -1,0 +1,8 @@
+Sterowanie:
+A - Ruch w lewo
+D - Ruch w prawo
+Spacja - Skok
+C - Kucanie
+E - Interakcja z obiektami
+Z - Atak
+Lewy Alt - Szybki ruch
